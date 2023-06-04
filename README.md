@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlainChance
 - 👀 I’m interested in quantum computing. I am a Qiskit Advocate.
 - 🌱 I’m currently learning quantum chemistry.
-- 💞️ I’m looking to collaborate on business opportunities pertaining to QuantFi or ODE, L3C.
+- 💞️ I’m looking to collaborate on business opportunities pertaining to MolKet.
 - 📫 How to reach me: alain dot chance at gmail dot com
 
 <!---
