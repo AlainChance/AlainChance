@@ -1,4 +1,4 @@
-👋 Hi, I’m Alain Chancé (@AlainChance) from France — President of MolKet SAS, a member of QED-C and QuIC, founder of Quantalain SASU and Alainquant LLC, offering management consulting and AI services. Advisory Board Member at NATI (USA).
+👋 Hi, I’m Alain Chancé (@AlainChance) from France — President of MolKet SAS, a member of QED-C and QuIC, founder of Quantalain SASU and Alainquant LLC, offering management consulting and AI services. Advisory Board Member at North America Technical Institute (NATI), Virginia, USA.
 
 🧠 Qiskit Advocate | IEEE Senior Member | Society Affiliate of the American Chemical Society (ACS) | Member of the American Physical Society (APS) and the Quantum Security and Defence Working Group (QSECDEF) | Co-author of Quantum Chemistry and Computing for the Curious, illustrated with Python and Qiskit code (Packt, 2022). Author of Chancé, A. (2024), Quantum Permutation Pad with Qiskit Runtime, in Femmam, S., & Lorenz, P. (Eds.), ICCCNT 2022, Springer, Cham.
 
