@@ -1,10 +1,29 @@
-👋 Hi, I’m Alain Chancé (@AlainChance) from France — President of MolKet SAS, a member of QED-C and QuIC, founder of Quantalain SASU and Alainquant LLC, offering management consulting and AI services. Advisory Board Member at North America Technical Institute (NATI), Virginia, USA.
+👋 Hi, I’m **Alain Chancé** (@AlainChance), based in France. **President of MolKet SAS, a member of QED-C and QuIC**.
 
-🧠 Qiskit Advocate | IEEE Senior Member | Society Affiliate of the American Chemical Society (ACS) | Member of the American Physical Society (APS) and the Quantum Security and Defence Working Group (QSECDEF) | Co-author of Quantum Chemistry and Computing for the Curious, illustrated with Python and Qiskit code (Packt, 2022) | Author of Chancé, A. (2024), Quantum Permutation Pad with Qiskit Runtime, in Femmam, S., & Lorenz, P. (Eds.), ICCCNT 2022, Springer, Cham.
+🏆 **Market Split Challenge Winner** — *IBM Quantum Developer Conference (QDC) 2025*
+🔗 [https://www.ibm.com/quantum/blog/community-qdc-2025](https://www.ibm.com/quantum/blog/community-qdc-2025)
 
-🎤 Participant in the IBM Quantum Developer Conference 2025 in Atlanta, 12-14 Nov 2025; Speaker at the Quantum Hackathon in Alexandria, 3 - 5 September 2025. Speaker at the IEEE 14th International Conference on Communications, Circuits and Systems (ICCCAS) in Wuhan, China (May 23–25, 2025); panelist at the QED-C Quantum & AI Use Cases Panel (2025); speaker in the Quantum AI monthly series by Bibliotheca Alexandrina and iQafé; participant in the IBM Quantum Developer Conference, New York (Nov 13–15, 2024); and keynote co-speaker at WAICF 2024 ("Combining the Power of AI with Quantum").
+🔬 **Expertise:**
+Quantum Computing · Quantum Algorithms · Quantum Optimization · Quantum Chemistry · Qiskit · IBM Quantum · Energy-aware quantum workflows · Hybrid quantum-classical computing
 
-With 30+ years of experience in enterprise transformation, I hold a diploma as Ingénieur civil des Mines from École des Mines de Saint-Étienne, France (1981).
+🧠 **Affiliations & Roles:**
+
+* [Advisory Board Member](https://nati.edu/advisory-board-committee-abc/), North America Technical Institute (NATI), USA
+* Qiskit Advocate
+* IEEE Senior Member
+* Society Affiliate, American Chemical Society (ACS)
+* Member, American Physical Society (APS)
+* Member, Quantum Security and Defence Working Group (QSECDEF)
+
+📘 **Publications:**
+
+* *Quantum Chemistry and Computing for the Curious* ([Packt, 2022](https://www.packtpub.com/en-us/product/quantum-chemistry-and-computing-for-the-curious-9781803238593)) — Python & Qiskit, 
+* Chancé, A. (2024). *Quantum Permutation Pad with Qiskit Runtime*. Springer (LNDECT, vol. 205)
+  [https://doi.org/10.1007/978-3-031-59619-3_12](https://doi.org/10.1007/978-3-031-59619-3_12)
+
+🎓 **Background:**
+30+ years in enterprise transformation.
+Ingénieur civil des Mines — École des Mines de Saint-Étienne, France (1981).
 
 🔗 LinkedIn: https://www.linkedin.com/in/alainchance/
 
