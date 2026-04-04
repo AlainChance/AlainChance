@@ -17,7 +17,8 @@ Quantum Computing · Quantum Algorithms · Quantum Optimization · Quantum Chemi
 
 📘 **Publications:**
 
-* *Quantum Chemistry and Computing for the Curious illustrated with Python and Qiskit code* ([Packt, 2022](https://www.packtpub.com/en-us/product/quantum-chemistry-and-computing-for-the-curious-9781803238593)) — Python & Qiskit, 
+* *Quantum Chemistry and Computing for the Curious illustrated with Python and Qiskit code* ([Packt, 2022](https://www.packtpub.com/en-us/product/quantum-chemistry-and-computing-for-the-curious-9781803238593)) — Python & Qiskit,
+* AI and AI Agents in Quantum Chemistry Simulations, Zenodo 2025-02-20 | Journal article, [https://zenodo.org/doi/10.5281/zenodo.14897793](https://zenodo.org/doi/10.5281/zenodo.14897793)
 * Chancé, A. (2024). *Quantum Permutation Pad with Qiskit Runtime*. Springer (LNDECT, vol. 205)
   [https://doi.org/10.1007/978-3-031-59619-3_12](https://doi.org/10.1007/978-3-031-59619-3_12)
 
